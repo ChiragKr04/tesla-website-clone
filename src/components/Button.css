@@ -18,11 +18,11 @@
 }
 
 .button__white{
-    background-color:white;
+    background-color:#b5b5b5;
     opacity:0.65;
 
 }
 
 .button__white>a{
-    color: white;
+    color: black;
 }

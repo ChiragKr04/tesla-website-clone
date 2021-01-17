@@ -21,7 +21,7 @@ const Item = ({title,desc,desclink,backgroundimg,leftBtnText,leftBtnLink
                     <div className="item__buttons">
                         <Button imp='Primary' text={leftBtnText} link = {leftBtnLink}/>
                         {twoButtons && (
-                            <Button imp = 'Secondary' text = {rightBtnText} link = {rightBtnLink}/>   
+                            <Button imp = 'secondary' text = {rightBtnText} link = {rightBtnLink}/>   
                         )} 
                     </div>
                     <div className="item__expand">

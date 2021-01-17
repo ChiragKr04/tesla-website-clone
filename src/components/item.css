@@ -1,12 +1,14 @@
 .item{
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
     resize: contain;
     justify-content:center;
+    scroll-snap-align: start;
+
 }
 
 .item__container{
@@ -24,11 +26,15 @@
     align-items:center;
     color:#393c41;
     flex: 1;
+    font-weight:900 !important;
 }
 
 .item__desc{
     font-weight: 200;
     font-size: 14px;
+    margin-top:10px;
+    letter-spacing:1px;
+    font-weight:900 !important;
 }
 
 .item__lowerthird{
@@ -44,6 +50,7 @@
 .item__expand{
     justify-content:center;
     width: 100%;
+    display: flex;
     margin-top: 3%;
-    color: white;
+    color: #b5b5b5;
 }
