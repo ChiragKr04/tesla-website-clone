@@ -21,7 +21,7 @@ function App() {
                 backgroundimg = {SolarPanels}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
                 first
@@ -33,10 +33,10 @@ function App() {
                 backgroundimg = {SolarRoofs}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
-                first
+                
             />
             <Item 
                 title="Model S"
@@ -45,10 +45,10 @@ function App() {
                 backgroundimg = {ModelS}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
-                first
+                
             />
             <Item 
                 title="Model Y"
@@ -57,10 +57,10 @@ function App() {
                 backgroundimg = {ModelY}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
-                first
+                
             />
             <Item 
                 title="Model X"
@@ -69,10 +69,10 @@ function App() {
                 backgroundimg = {ModelX}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
-                first
+                
             />
             <Item 
                 title="Model 3"
@@ -81,10 +81,10 @@ function App() {
                 backgroundimg = {Model3}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
-                first
+                
             />
             <Item 
                 title="Accessories"
@@ -93,10 +93,10 @@ function App() {
                 backgroundimg = {Accessories}
                 leftBtnText = 'ORDER NOW'
                 leftBtnLink = ''
-                rghtBtnText = 'LEARN MORE'
+                rightBtnText = 'LEARN MORE'
                 rightBtnLink = ''
                 twoButtons = 'true'
-                first
+                
             />
         </div>
     </div>
